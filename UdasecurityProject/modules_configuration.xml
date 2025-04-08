@@ -1,0 +1,4 @@
+   <modules>
+       <module>security-service</module>
+       <module>image-service</module>
+   </modules>
